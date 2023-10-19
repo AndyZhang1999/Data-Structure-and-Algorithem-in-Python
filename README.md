@@ -1,10 +1,10 @@
-CS61A
+Data structure and algorithm in Python
 ===========
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.  
 
-1. **CS 61A** concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware. 
-2. **CS 61B** deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs. 
-3. **CS 61C** focuses on machines and how they execute the programs you write. 
+1. concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware. 
+2. deals with the more advanced engineering aspects of software, such as constructing and analyzing large programs. 
+3. focuses on machines and how they execute the programs you write. 
 
 In CS 61A, we are interested in teaching you about programming, not about how to use one particular programming language. We consider a series of techniques for controlling program complexity, such as functional programming, data abstraction, and object-oriented programming. 
 
